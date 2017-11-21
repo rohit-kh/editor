@@ -1,0 +1,5 @@
+To run this program kindly follow this point.
+1. Extract zip file.
+2. Install xampp/wamp server.
+3. Paste folder in xampp/htdocs/ location(for xampp user).
+4. Then hit URL http://localhost/live_editor/
